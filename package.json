@@ -2,7 +2,7 @@
   "name": "shadowsocks-qrcode",
   "version": "1.0.0",
   "description": "Generate QR code from shadowsocks json config file",
-  "reponsitory": "https://github.com/cpylua/shadowsocks-qrcode",
+  "repository": "https://github.com/cpylua/shadowsocks-qrcode",
   "main": "index.js",
   "scripts": {
     "bin": "index.js"
